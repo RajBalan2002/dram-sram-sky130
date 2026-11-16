@@ -1,0 +1,4 @@
+sim/
+*.vvp
+__pycache__/
+results/*.log

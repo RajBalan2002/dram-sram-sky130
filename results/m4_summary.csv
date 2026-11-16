@@ -1,0 +1,7 @@
+quantity,mean_mV,sigma_mV,mean_minus_6sigma_mV
+SRAM Read SNM,410.6,5.2,379.4
+SRAM Hold SNM,701.3,5.42,668.8
+SRAM Write margin,624.3,14.14,539.4
+SA offset (svt),-0.08,10.8,64.8
+SA offset (svt2x),-0.03,8.77,52.6
+SA offset (lvt),1.23,18.82,112.9

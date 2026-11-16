@@ -1,0 +1,9 @@
+T0 = 0.7622 ns
+TAU = 0.1451 ns
+TMIN = 0.9520 ns
+VSW = 1.440 V
+sigma_os (SPICE MC, standard-Vt 2x) = 8.77 mV
+decisions matching SPICE: 44/44
+timing error, 1-100 mV: max |err| = 5 ps, rms = 2 ps
+timing error, all points: max |err| = 10 ps
+runtime: SPICE 44 sense amps = 1.54 s; RNM sweep = 0.00 s; RNM 240k-read yield run = 1.78 s

@@ -1,0 +1,6 @@
+corner,Idsat_n_uA_per_um,Idsat_p_uA_per_um,nmos,pmos
+tt,501.0,200.7,typ,typ
+ss,424.6,140.1,slow,slow
+ff,577.5,265.3,fast,fast
+sf,583.7,135.5,fast,slow
+fs,418.7,266.3,slow,fast

@@ -1,0 +1,3 @@
+vfail=1.2111 V
+integral=0.001643 s
+transient=0.001692337 s
